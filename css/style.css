@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  background: #0575E6;  /* fallback for old browsers */
+  background: #0575E6;
 background: -webkit-linear-gradient(bottom, #021B79, #0575E6);
 background: -o-linear-gradient(bottom, #021B79, #0575E6);
 background: linear-gradient(to top, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
